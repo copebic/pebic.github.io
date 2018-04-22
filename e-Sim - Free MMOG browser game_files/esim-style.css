@@ -5559,6 +5559,7 @@ a[id="defaultBattles"] .rightTabBlue {
     width: 100%;
     min-height: 20px;
     overflow: auto
+    font-size:20px!important;
 }
 
 .foundation-style .testDivwhite#globalShouts hr.dashedLine,
@@ -19664,4 +19665,12 @@ a.configure-chatroom-button:active {
 .spritewhite.BUG_TRAINER,
 .spritewhite.a197 {
     background-position: -1038px -76px
+}
+
+.newPlayersStatsTable{
+    width:100%!important;
+}
+
+#alert_1{
+    display:none;
 }
